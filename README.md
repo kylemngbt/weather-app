@@ -1,1 +1,2 @@
-# weather-app
+# Simple Weather Web App
+This web app will get the current weather data from Fess API fey from OpenWeatherMap and display the weather information like temperature, weather condition, humidity and wind speed according to the city that you enter.
